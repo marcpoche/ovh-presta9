@@ -2,6 +2,6 @@ app.engine=php
 app.engine.version=8.2
 http.firewall=none
 environment=production
-
+container.image=stable
 container.engine=php
 container.engine.version=8.2
